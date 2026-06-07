@@ -1,0 +1,9 @@
+[package]
+name = "vector-clock"
+version = "0.1.0"
+edition = "2021"
+description = "Vector clocks for causal ordering in distributed systems, implementing happened-before, concurrency detection, and merge operations"
+license = "MIT"
+repository = "https://github.com/SuperInstance/vector-clock"
+
+[dependencies]
